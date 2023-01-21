@@ -11,7 +11,9 @@ import SwiftUI
 struct DingerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView{
+                ScrumsView(scrums: DailyScrum.sampleData)
+            }
         }
     }
 }
