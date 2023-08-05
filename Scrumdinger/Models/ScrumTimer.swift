@@ -1,7 +1,6 @@
 /*
 See LICENSE folder for this sample’s licensing information.
 */
-
 import Foundation
 
 /// Keeps time for a daily scrum meeting. Keep track of the total meeting time, the time for each speaker, and the name of the current speaker.

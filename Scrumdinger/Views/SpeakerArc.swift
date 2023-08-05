@@ -4,7 +4,6 @@
 //
 //  Created by 이우람 on 2023/08/03.
 //
-
 /// To create an arc, you’ll create a structure that conforms to the Shape protocol.
 /// The Shape protocol has one required function: path(in:).
 /// You’ll write the path(in:) function and additional properties you’ll use to calculate the path inside that function.
